@@ -4,5 +4,6 @@ void main()
 {
   int a=3,b=51;
   printf("The sum of %d and %d is %d",a,b,a+b);
-  getch();
+  printf("\n--------------------------------------");
+  getch(); 
 }
